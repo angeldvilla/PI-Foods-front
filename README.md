@@ -6,7 +6,7 @@
 
 ¡Hola! Soy Angel, estudiante del Bootcamp de Desarrollo Web de Henry. Aquí, en este repositorio, te presento mi proyecto integrador llamado **Foods**. Este proyecto ha sido una parte fundamental de mi aprendizaje en el bootcamp y representa mi habilidad para aplicar las tecnologías que he aprendido, como React, Redux y CSS Modules en la parte del Front-end.
 
-![LandingPage](![image](https://github.com/angeldvilla/PI-Foods-front/assets/89151224/ad9ed161-ef08-4faf-9aec-eca3e03e8534)
+(![image](https://github.com/angeldvilla/PI-Foods-front/assets/89151224/ad9ed161-ef08-4faf-9aec-eca3e03e8534)
 
 
 ## **🚀 Tecnologías Utilizadas**
