@@ -13,7 +13,7 @@ import {ALL_RECIPES,
 import { showModal } from './actionsModal';
 /* ----------------- */
 
-const URL_API = `http://localhost:3001/recipes`;
+const URL_API = `https://server-foods-3z2m.onrender.com/recipes`;
 /* --------------------------------------------- */
 
 export const getAllRecipes = () => {
@@ -63,7 +63,7 @@ export const getDiets = () => {
     return async (dispatch) => {
         try {   
             
-           const { data } = await axios.get('http://localhost:3001/diets');
+           const { data } = await axios.get('https://server-foods-3z2m.onrender.com/diets');
 
            dispatch({
                type:GET_DIETS,
