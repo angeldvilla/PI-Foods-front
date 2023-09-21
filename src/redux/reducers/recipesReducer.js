@@ -59,6 +59,7 @@ switch(action.type) {
     return {
         ...state,
         diets: action.payload,
+        loading: false
     };
 /* ------------------------------------------------------------- */ 
     // Caso para agregar una nueva receta al estado
